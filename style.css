@@ -92,6 +92,7 @@ h4{font-size:2.5rem;margin-bottom:3%;}
 .nav>li .dropdown-menu a,.nav>li .dropdown-menu a:hover{color:#484848;}
 .nav-invert .site-navigation{left:0;right:0;}
 .navbar-collapse.collapse{display:hidden!important;height:auto!important;padding-bottom:0;overflow:visible!important;}
+.navbar-header{width: auto;height: auto;}
 @media (max-width: 992px) and (min-width: 768px) {
 .navbar .nav{max-width:80%;}
 .nav-center.navbar .nav{max-width:100%;}
