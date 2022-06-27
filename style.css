@@ -236,6 +236,17 @@ form{padding:5px;}
 }
 @media (max-width: 767px) {
 .bloc-mob-center-text{text-align:center;}
+body{width: 100%;}
+.container {width: 100%;}
+.btn-lg{margin: auto;}
+.btn-atomic-tangerine{margin: auto;}
+.btn{width: fit-content; font-size: 2rem; margin: auto; text-align: center;}
+.bloc-lg{width: 100%; margin: 0;}
+.row{width: 100%; padding: 0; text-align: justify;}
+.col-sm-13{ width: 85%; margin: auto;}
+.black-background{padding: 0;}
+.fa-circle-arrow-up{transform: scale(1.5);}
+#scroll_to_top {position: fixed;width: 35px;height: 35px;bottom: 50px;right: 20px;z-index: 900000;}
 }
 .bgc-white{background-color:#FFF;}
 .bgc-dark-slate-blue{background-color:#364577;}
